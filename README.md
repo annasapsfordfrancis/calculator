@@ -1,5 +1,7 @@
 # Calculator Project
-A basic calculator in C#.
+A basic calculator in .NET
+
+<img src="https://user-images.githubusercontent.com/83829719/193551704-ea22913d-a278-480e-adaa-1676bce1f643.png" width="400">
 
 # To Run the Project
 `dotnet run`
